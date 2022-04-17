@@ -1,4 +1,7 @@
 defmodule DesafiosCodewars do
+  alias DesafiosCodewars.Fundamentals.Maps
   alias DesafiosCodewars.Fundamentals.Opposites
-  defdelegate call_opposites(elen1, elen2), to: Opposites, as: :inlove?
+
+  defdelegate call_maps(element), to: Maps, as: :maps
+  defdelegate call_opposites(element1, element2), to: Opposites, as: :inlove?
 end
