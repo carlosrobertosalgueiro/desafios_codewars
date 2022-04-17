@@ -54,7 +54,7 @@ estiverem apaixonados e false se não estiverem apaixonados.
 
 Uso:
 
-Execute a fução call_opposites passando os argumentos numéricos da sua preferência comoforme exemplo abaixo:
+Execute a fução call_opposites passando os argumentos numéricos da sua preferência conforme exemplo abaixo:
 
 ```sh
 DesafiosCodewars.call_opposites(1,2)
@@ -63,3 +63,24 @@ Importante: Os argumentos devem ser passados em formato númerico.
 
 Resultado Esperado: Se o casal estiver apaixonado você receberá um "true", caso contrário você receberá um "false".
 
+
+##  02 - Dobrando o Valor
+
+Descrição:
+
+Dada uma matriz de inteiros, retorne uma nova matriz com cada valor dobrado.
+
+Por exemplo:
+
+[1, 2, 3] --> [2, 4, 6]
+
+Uso:
+
+Execute a fução call_maps passando uma lista numerica da sua preferência conforme exemplo abaixo:
+
+```sh
+DesafiosCodewars.call_maps([1,2,3])
+```
+Importante: Os argumentos devem ser passados em formato númerico.
+
+Resultado Esperado: Você receberá uma lista com os valores dobrados.
