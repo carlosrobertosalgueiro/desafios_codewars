@@ -2,7 +2,6 @@
 
 ## Sobre: Repositório com desafios realizados na plataforma Codewars.
 
-
 ##  Construído com
 
 * [Elixir](https://elixir-lang.org/)
@@ -46,7 +45,7 @@ Na descrição de cada modulo está disponibilizado a chamada da função.
 
 ## Desafios da trilha de fundamentos:
 
-###  01- Opposites
+###  01 - Opposites
 
 Descrição:
 
@@ -60,6 +59,7 @@ Execute a fução call_opposites passando os argumentos numéricos da sua prefer
 ```sh
 DesafiosCodewars.call_opposites(1,2)
 ```
-
 Importante: Os argumentos devem ser passados em formato númerico.
+
+Resultado Esperado: Se o casal estiver apaixonado você receberá um "true", caso contrário você receberá um "false".
 
