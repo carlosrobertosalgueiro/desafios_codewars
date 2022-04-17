@@ -1,8 +1,8 @@
 defmodule DesafiosCodewars.Fundamentals.Opposites do
   require Integer
 
-  def inlove?(elen1, elen2) do
-    Integer.is_even(elen1) != Integer.is_even(elen2)
+  def inlove?(element1, element2) do
+    Integer.is_even(element1) != Integer.is_even(element2)
   end
 end
 
