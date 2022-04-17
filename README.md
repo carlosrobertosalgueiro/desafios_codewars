@@ -43,9 +43,9 @@ DesafiosCodewars.<função selecionada>
 Na descrição de cada modulo está disponibilizado a chamada da função.
 
 
-## Desafios da trilha de fundamentos:
+# Desafios da trilha de fundamentos:
 
-###  01 - Opposites
+##  01 - Opposites
 
 Descrição:
 
